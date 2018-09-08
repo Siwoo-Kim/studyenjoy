@@ -1,0 +1,12 @@
+
+Frontend 생성
+    도구 설치
+        - npm install -g yo
+        - npm install -g bower
+        - npm install -g grunt-cli
+
+    /resources/static
+        - yo angular frontend
+
+ Frontend Run
+    - grunt serve
